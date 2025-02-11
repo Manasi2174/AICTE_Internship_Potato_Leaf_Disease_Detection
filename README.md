@@ -1,0 +1,1 @@
+# AICTE_Internship_Potato_Leaf_Disease_Detection
